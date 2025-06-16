@@ -1,3 +1,0 @@
-# Test file for git operations
-Created at: $(date)
-This is a test commit to verify git operations are working correctly. 
