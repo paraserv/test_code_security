@@ -1,0 +1,3 @@
+# GPG Test File
+This file is used to test GPG signing of commits.
+Created at: $(date) 
